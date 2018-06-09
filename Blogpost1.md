@@ -27,23 +27,11 @@ iii)    To assess which gender participated more in this Facebook survey
 
 ## Discussions and Visualizations
 #### This survey research has come up with the following information. 
-### [A] Which team has more chances of winning 2018 FIFA World Cup?
-#### Majority of respondents predicted that Argentina is favorite to win 2018 FIFA World Cup. 39.6% of them forecasted Argentina as the world champion. Likewise, 22.0% cast their poll in Brazil as the winner, 20.8% viewed Germany, 9.4% predicted Portugal, 2.5% said France and so on. The Bar diagram below shows the country wise predictions made by the respondents.
-
-#### The bar diagram above presents the number of respondents along Y-axis and countries along X-axis. Tallest blue colored bar indicates most of the respondents predicted that Argentina as the strongest contender. This visualization shows that 1.3% of the respondents (purple bar) predicted that the other country which is not listed in this survey will win the title. 
-
-### [B] How are the teams favored gender-wise?
-#### This sections of discussion and visualization assess how the teams are favored gender-wise. Data shows that out of total 64 respondents who predicted Argentina as the winner;15.63% are female,12.50% did not prefer to specify their gender, and rest 71.88% are male. Among the respondents, who predicted Brazil as the winner, 5.71% are female and 88.57% are male. Likewise, 14.71% female and 64.71% male oracled Germany and 6.67% female and 66.67% male foresighted Portugal as the winner of FIFA World Cup. It is interesting to note that no female predicted that France, England, Spain, Belgium, and other countries could win the cup. 
-
-#### The bar diagram above visualizes the gender-wise predictions on the winner of a world cup. Gender-wise predictions of the respondents are measured along Y-axis and the countries along X-axis. Red, blue, and yellow colors in each bar present the female, male and prefer not to say the gender respectively. The bars representing England, France, Belgium, Spain, and others do not contain red portion. This indicates that none of the females predicated these countries could win the cup.
-
-### [C] Which gender responded the most to this Facebook survey? 
-#### As mentioned earlier, only 3.38% of the total Facebook friends participated in this survey. A huge majority of participants were male (74.54%), and the least participants were female (11.18%). Around 14.29% of a total 161 participants did not specify their gender. Might be the larger portion of female participants prefer not to say the gender. So, the number of female participants significantly became least. The Donut chart below visualizes the gender-wise respondents of this survey.
-
-#### The Donut chart is almost blue in color. This indicates that the maximum respondents of this survey are male.  A very small portion of red color on the Donut shows the least participation of women in this survey. Hence, the male responded the most to this Facebook survey.
+ 
+ {% include Blog_PostII.html %}
 
 ## Conclusions
 #### This small piece of a Facebook survey examined the predictions of Facebooks friends about the winner of 2018 FIFA World Cup. Majority of the respondents predicted Argentina as the winner followed by Brazil, Germany, France and so forth. The research found that the most respondents of the survey were male. Only a few numbers of female respondents have participated in this Facebook survey. This survey was conducted within the various limitations such as time and coverage. The discussion and analysis are solely based on the responses derived from the small portion of the respondents. Therefore, the findings of this research may not be generalized to everywhere.
 
-{% include Blog_PostII.html %}
+
 [Return to Homepage](https://abinojha.github.io/DataVis/)

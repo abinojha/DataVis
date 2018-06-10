@@ -1,8 +1,7 @@
 # DataVis
 ### Blog_PostI
 #### This visualization is based on NYC Open Data about the graffiti complaints in all five boroughs. The data are fetched from '311 Serivce Request Form', organized form 2011 to present.
-[Blog_postI](/Blog_postI.md)
- 
+[BlogpostI](/BlogpostI.md)
  
  
 ### Blog_PostII

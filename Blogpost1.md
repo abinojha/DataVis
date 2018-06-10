@@ -1,4 +1,4 @@
-
+#Blog Post 2
 ## Which Country is Favorite to Win 2018 FIFA World Cup: A Facebook Survey
 ### Introduction
 ###### On June 14, 2018, the Russian national soccer team will play against Saudi Arabia in Moscow to kick off the 2018 FIFA World Cup. Hundreds of million people all over the world are desperately waiting for the world cup and all people are supporting and cheering for their favorite teams. The walls of people's social media (like Facebook, Tweeter, Instagram, and so forth) are colored with the photos of their favorite teams, players, flags, and countries to express their favoritism and supports. Observing these activities, I aspire to make a study on the perceptions of my Facebook friends regarding the winner of FIFA World Cup 2018. Thus, the study is aspirant to visualize the predictions of my Facebook friends, regarding the country with more chances to win 2018 FIFA World Cup. 
@@ -21,7 +21,6 @@ iii)    To assess which gender participated more in this Facebook survey
 ### Discussions and Visualizations
 ###### This survey research has come up with the following information. 
 {% include Blog_PostII.html %} 
-
 ### Conclusions
 ###### This small piece of a Facebook survey examined the predictions of Facebooks friends about the winner of 2018 FIFA World Cup. Majority of the respondents predicted Argentina as the winner followed by Brazil, Germany, France and so forth. The research found that the most respondents of the survey were male. Only a few numbers of female respondents have participated in this Facebook survey. This survey was conducted within the various limitations such as time and coverage. The discussion and analysis are solely based on the responses derived from the small portion of the respondents. Therefore, the findings of this research may not be generalized to everywhere.
 [Return to Homepage](https://abinojha.github.io/DataVis/)

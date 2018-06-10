@@ -1,4 +1,4 @@
-#Blog Post 2
+# Blog Post 2
 ## Which Country is Favorite to Win 2018 FIFA World Cup: A Facebook Survey
 ### Introduction
 ##### On June 14, 2018, the Russian national soccer team will play against Saudi Arabia in Moscow to kick off the 2018 FIFA World Cup. Hundreds of million people all over the world are desperately waiting for the world cup and all people are supporting and cheering for their favorite teams. The walls of people's social media (like Facebook, Tweeter, Instagram, and so forth) are colored with the photos of their favorite teams, players, flags, and countries to express their favoritism and supports. Observing these activities, I aspire to make a study on the perceptions of my Facebook friends regarding the winner of FIFA World Cup 2018. Thus, the study is aspirant to visualize the predictions of my Facebook friends, regarding the country with more chances to win 2018 FIFA World Cup. 

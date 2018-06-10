@@ -10,5 +10,6 @@
 ##### The source of data is NYC Open Data. The graffiti complaints made in all five boroughs, organized form 2011 to present are fetched from '311 Service Request from 2011 to Present' data sources. Data is available at: (https://data.cityofnewyork.us/dataset/311-Service-Requests-From-2011/fpz8-jqf4). Graffiti, Agency name, Boroughs, Locations, Public Properties (Commercial, Residential and Public Spaces) and Incident Areas are some variables used in the visualization.
 ### Visualizations of the Data
 ##### Sketches of the data visualizations are presented below in chronological orders as research questions above; 
-{%includeBlog_PostI.html%}
+# {%includeBlog_PostI.html%}
+
 [Return to Homepage](https://abinojha.github.io/DataVis/)

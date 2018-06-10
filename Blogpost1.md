@@ -4,12 +4,12 @@
 ##### On June 14, 2018, the Russian national soccer team will play against Saudi Arabia in Moscow to kick off the 2018 FIFA World Cup. Hundreds of million people all over the world are desperately waiting for the world cup and all people are supporting and cheering for their favorite teams. The walls of people's social media (like Facebook, Tweeter, Instagram, and so forth) are colored with the photos of their favorite teams, players, flags, and countries to express their favoritism and supports. Observing these activities, I aspire to make a study on the perceptions of my Facebook friends regarding the winner of FIFA World Cup 2018. Thus, the study is aspirant to visualize the predictions of my Facebook friends, regarding the country with more chances to win 2018 FIFA World Cup. 
 ### Research Questions
 ##### This research aspires to assess the prediction of Facebook friends on the winner of 2018 FIFA World Cup. The specific questions of this research are as follow;
-i)     Which team has more chances of winning the 2018 FIFA World Cup?
+#####i)     Which team has more chances of winning the 2018 FIFA World Cup?
 ii)     How are the teams favored gender-wise?
 iii)    Which gender responded the most to this Facebook survey?
 ### Objectives of the Study
 ##### The general objective of this study is to visualize the predictions of Facebook friends about the winner of 2018 FIFA World Cup. The specific objectives of the study are as follow;
-i)    To visualize the predictions of Facebook friends
+#####i)    To visualize the predictions of Facebook friends
 ii)    To visualize the teams favored gender-wise
 iii)    To assess which gender participated more in this Facebook survey
 ### Audience of the Study

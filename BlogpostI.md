@@ -1,4 +1,5 @@
 # Blog_PostI
+### ABIN OJHA
 ## Graffiti Complaints in New York City: An Overview of 311 Data
 ### Background
 ##### Simply, Graffiti is defined as art that is painted on the wall or in public places. Some say that graffiti is colorful and beautiful, others say that it is a mess that makes town or city untidy and unmaintained. Mostly we observe graffities are more common in urban where more people and huge buildings are concentrated than the rural areas. Though graffiti artists may believe it enriches the beauty of city, the city administration believes that it makes city ugly. City dwellers themselves may have inconsistent perceptions of graffiti and may respond either way to it. So, graffiti has become an issue of debate: is it culture or crime?  In New York City, there is a record of resident complaints about graffiti. Drawing on the 311 data, this project aspires to visualize those complaints. 

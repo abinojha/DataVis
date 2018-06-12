@@ -13,4 +13,6 @@
 ##### The data visualizations are presented below in chronological orders as research questions above; 
 {% include Blog_Post_one.html %}
 
+
+
 [Return to Homepage](https://abinojha.github.io/DataVis/)

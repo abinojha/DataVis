@@ -12,7 +12,7 @@
 ### Methods 
 ##### The research is a Facebook survey. The respondents of the research are my Facebook friends. A survey questionnaire (opinion survey sheet) is developed through Google Drive and posted publicly on the Facebook wall. All the friends were eligible to respond. Responses received from the friends are used for the generalizations and visualizations.
 ### Limitations
-##### The survey is made, only among the friends on my Facebook.  Only 161 (3.38%) friends from 4,756 friends on Facebook voluntarily participated in this survey. Therefore, the generalizations and conclusions made from this research may not be applicable and valid elsewhere.
+##### The survey is made, only among the friends on my Facebook.  Only 161 (3.38%) friends from 4,756 friends on Facebook voluntarily participated in this survey. Therefore, the generalizations and conclusions made from this research may not be applicable and valid everywhere.
 ### Discussions and Visualizations
 ##### This survey research has come up with the some interesting informations. The follwing discussions and visualizations are made from the informations colleced through Facebook survey.
 {% include Blog_PostII.html %} 

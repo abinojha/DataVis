@@ -11,4 +11,4 @@
 
 ### Blog_Post 3
 ##### This blog post visualizes the GDP (Current USD), GDP Growth (Annual Percent) and GDP Per Capita, PPP (Current International USD) of the four powerful countries of the contemporary World. It compares and contrasts the World Bank Data of China, India, Russia, and the United States from the year 1997 to 2016.
-[Blog_Post 3](/Final_Portfolio.md)
+[Blog_Post III](/Final_Portfolio.md)

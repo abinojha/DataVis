@@ -33,6 +33,7 @@ The project visualized the GDP of the four countries through Tableau public on t
 
 
 Fioramonti, Lorenzo. (2013). Gross Domestic Problem: The Politics behind the World's Most Powerful Number. ondon: Zed Books Ltd.
+
 Brezina, Corona. (2012). Real World Economics: Understand the Gross Domestic and the Gross National Product. New York: Rosen Publishing.
 
 Source** [Link]https://knoema.com/atlas/ranks/GDP-per-capita-based-on-PPP

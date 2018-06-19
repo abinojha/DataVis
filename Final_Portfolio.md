@@ -31,7 +31,7 @@ The GDP Per Capita Purchasing Power Parity (current International $) of the sele
 The project visualized the GDP of the four countries through Tableau public on the various charts. It studied simply, the GDP of the four countries from the year 1997 to 2016. The visualizations showed that the GDP (current US $) of the United States is greater than other three countries. It means that the United States has the largest economy among the four countries. Surprisingly, the GDP growth rate (annual %) of the United States is slower than that of China and India, and Russia's GDP growth rate in the recent year is in the negative trend. This indicates that the economy of the United States and Russia is contracting whereas the economy of China and India is booming each year. GDP Per Capita, PPP of all four countries are increasing every year. Conversely, the GDP Per Capita of the United States is greater than other three countries. It indicates that the average person in the United States is richer than the average person in India, Russia, and China.
 
 
-
+### References
 Fioramonti, Lorenzo. (2013). Gross Domestic Problem: The Politics behind the World's Most Powerful Number. ondon: Zed Books Ltd.
 
 Brezina, Corona. (2012). Real World Economics: Understand the Gross Domestic and the Gross National Product. New York: Rosen Publishing.

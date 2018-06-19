@@ -29,9 +29,14 @@ To visualize the GDP Growth (Annual %) simple bar diagram for each country is ch
 The GDP Per Capita Purchasing Power Parity (current International $) of the selected four countries are visualized in the Component Bar Chart. This diagram consists of bars which are sub-divided into two or more parts, and the length of the bar is proportional to the totals. The composite bar chart is chosen to visualize the GDP per capita because the sub-divisions of a bar could be a good option to present the data of all four countries in a single bar. This visualization is further presented in scatter plots that gives more clear understanding on how the GDP Per Capita changed over the years. The data on GDP per capita of all four countries are ascending every year since 1997. The GDP per capita of the United States is higher than the other three countries. Speaking statistically, the GDP Per Capita (PPP) of the United States, Russia, India, and China in 1997 were $31, 573.00, $5,697.00, $1,657.00, and $2,277.00 and in 2016 were $ $57,638.00, $24,789.00, $6,571.00, and 15,529.00 respectively.
 ### Conclusions
 The project visualized the GDP of the four countries through Tableau public on the various charts. It studied simply, the GDP of the four countries from the year 1997 to 2016. The visualizations showed that the GDP (current US $) of the United States is greater than other three countries. It means that the United States has the largest economy among the four countries. Surprisingly, the GDP growth rate (annual %) of the United States is slower than that of China and India, and Russia's GDP growth rate in the recent year is in the negative trend. This indicates that the economy of the United States and Russia is contracting whereas the economy of China and India is booming each year. GDP Per Capita, PPP of all four countries are increasing every year. Conversely, the GDP Per Capita of the United States is greater than other three countries. It indicates that the average person in the United States is richer than the average person in India, Russia, and China.
-Fioramonti, Lorenzo. (2013). Gross Domestic Problem: The Politics behind the World's Most Powerful Number. London: Zed Books Ltd.
+
+
+
+Fioramonti, Lorenzo. (2013). Gross Domestic Problem: The Politics behind the World's Most Powerful Number. ondon: Zed Books Ltd.
 Brezina, Corona. (2012). Real World Economics: Understand the Gross Domestic and the Gross National Product. New York: Rosen Publishing.
+
 Source** [Link]https://knoema.com/atlas/ranks/GDP-per-capita-based-on-PPP
- PPP*:: Purchasing power parity (PPP) is a neoclassical economic theory that states that the exchange rate between two countries is equal to the ratio of the currencies' respective purchasing power.
+
+PPP*:: Purchasing power parity (PPP) is a neoclassical economic theory that states that the exchange rate between two countries is equal to the ratio of the currencies' respective purchasing power.
 
 [Return to Homepage](https://abinojha.github.io/DataVis/)

@@ -6,7 +6,7 @@ The China, India, Russia, and the United States are the most powerful countries 
 
 'GDP measures the value of goods and services produced in a given period. It measures production output in terms of market prices'. Generally, GDP is measured using the following formula; GDP= Consumption + Investment + Government Spending + Exports – Imports (Fioramonti,2013) .
 
-GDP is the monetary value of goods and services produced in a nation during a given time, usually one year. GDP growth rate is an important statistical measure adopted by economists to evaluate, 'How fast is the economy growing'? For example, if the annual GDP growth rate is 3 percent, that means the economy is 3 percent larger than it was in the previous year. (Brezina, 2014:4). "GDP per capita (PPP based) is gross domestic product converted to international dollars using purchasing power parity rates and divided by total population". As such It is a measure of a country's wealth. It is a measure of if the average person in country A is richer than in country B. This is assessed through GDP Per Capita and Purchasing Power Parity (PPP) (PPP is a neoclassical economic theory that states that the exchange rate between two countries is equal to the ratio of the currencies' respective purchasing power. also allows for the comparisons among countries with wide income disparities).
+GDP is the monetary value of goods and services produced in a nation during a given time, usually one year. GDP growth rate is an important statistical measure adopted by economists to evaluate, 'How fast is the economy growing'? For example, if the annual GDP growth rate is 3 percent, that means the economy is 3 percent larger than it was in the previous year (Brezina, 2014:4). "GDP per capita (PPP based) is gross domestic product converted to international dollars using purchasing power parity rates and divided by total population". As such It is a measure of a country's wealth. It is a measure of if the average person in country A is richer than in country B. This is assessed through GDP Per Capita and Purchasing Power Parity (PPP) (PPP is a neoclassical economic theory that states that the exchange rate between two countries is equal to the ratio of the currencies' respective purchasing power. also allows for the comparisons among countries with wide income disparities).
 
 Simply, an increase in the volume of GDP and associated indicators indicates the economic growth and development of a nation. Being based on this simple and general theory, this work visualizes the GDP (Current US $), GDP Growth (Annual %), and GDP Per Capita Purchasing Power Parity (Current International $) of China, India, Russia, and the United States in the last two decades. Statistical data is collected from the World Bank database. Details of the data are presented in the Sources section below.
 
@@ -44,7 +44,7 @@ The project visualized the GDP of the four countries using Tableau public. It st
 
 
 ### References
-Fioramonti, Lorenzo. (2013). Gross Domestic Problem: *The Politics behind the World's Most Powerful Number*. London: Zed Books Ltd.
+Fioramonti, Lorenzo. (2013). *Gross Domestic Problem: The Politics behind the World's Most Powerful Number*. London: Zed Books Ltd.
 
 Brezina, Corona. (2012). *Real World Economics: Understand the Gross Domestic and the Gross National Product*. New York: Rosen Publishing.
 

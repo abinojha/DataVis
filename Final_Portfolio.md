@@ -16,7 +16,7 @@ China, India, Russia, and the United States are the most powerful countries in t
 It is expected that the visualization of some aspects of GDP would sketch the entire economic situation of these selected countries, other things remaining the same. This visualization includes: GDP (current US $), GDP Growth Rate (annual %) and GDP Per Capita PPP (international $).  These three aspects of GDP are selected assuming that the visualization of GDP (the current US $) displays the economic situation, GDP growth rate indicates the direction of the economy and GDP Per Capita presents the average income of the entire population.
 
 ### Research Questions
-This visualization aspires to make a comparative study on GDP of four powerful countries. The specific questions of this visualization are as follows: *Which country achieved the highest average GDP (Current US $) over the last two decades? *How has the GDP growth rate (Annual %) of these four countries changed? *What was each year's GDP Per Capita?
+This visualization aspires to make a comparative study on GDP of four powerful countries. The specific questions of this visualization are as follows: *Which country achieved the highest average GDP (Current US $) over the last two decades?* *How has the GDP growth rate (Annual %) of these four countries changed?* *What was each year's GDP Per Capita?*
 
 ### Audience of the Study
 The audience of this visualization is all who are interested in studying economic indicators such as students of economics and politics, and other intered in geopolitics. This visualization gives sketches as well as statistical values of Gross Domestic Product of China, India, Russia, and the United States of last two decades. 

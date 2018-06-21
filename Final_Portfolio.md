@@ -50,9 +50,9 @@ The project visualized the GDP of the four countries using Tableau public. It st
 
 
 ### References
-Fioramonti, Lorenzo. (2013). *Gross Domestic Problem: The Politics behind the World's Most Powerful Number*. London: Zed Books Ltd.
-
 Brezina, Corona. (2012). *Real World Economics: Understand the Gross Domestic and the Gross National Product*. New York: Rosen Publishing.
+
+Fioramonti, Lorenzo. (2013). *Gross Domestic Problem: The Politics behind the World's Most Powerful Number*. London: Zed Books Ltd.
 
 Source** [Link](https://knoema.com/atlas/ranks/GDP-per-capita-based-on-PPP)
 
